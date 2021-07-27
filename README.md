@@ -1,7 +1,7 @@
 # Corona_prediction_model
 Machine Learning based model which predicts corona based on symptoms and conditions provided
  
-The ML models that have been used here are:-
+The ML algorithms that have been used here are:-
 
 -> Logistic Regression
 

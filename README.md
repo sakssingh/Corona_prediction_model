@@ -1,5 +1,5 @@
 # Corona_prediction_model
-Machine Learning based model which predicts corona based on symptoms and conditions provided
+Machine Learning model which predicts corona based on symptoms and conditions provided
  
 The ML algorithms that have been used here are:-
 
